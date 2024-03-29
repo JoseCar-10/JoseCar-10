@@ -1,4 +1,4 @@
-### Hi Im
+<h1 align="center">
       J 
         O
           S
@@ -10,8 +10,15 @@
        R  
      A
    C        
-    
-                                                                                ![image](https://github.com/JoseCar-10/JoseCar-10/assets/107785714/4a795b66-dd8e-4d5d-b270-86559eb294d4)
+</h1>
+
+<div align="center">
+      
+  <img src="/web/static/img/screenshots/homepage.gif" height=360
+</a>
+</div>
+
+                                                                               
 
 
 <!--
