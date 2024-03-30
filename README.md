@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Cabrera</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion+for+improve+finance+and+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer)](https://git.io/typing-svg)
 
 <img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
 
@@ -54,6 +54,7 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kyicnsZl8wJ6CBiZHo/giphy.gif" alt="wordpress" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery/?utm_source=google&utm_medium=cpc&utm_campaign=emea-gb-all-en-dr-bkws-all-solutions-trial-e-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_574804267126-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery%23v6-KWID_43700053285127694-kwd-63326440124-userloc_9042681&utm_term=KW_google%20bigquery-NET_g-PLAC_&gclid=Cj0KCQjw37iTBhCWARIsACBt1IzYEafpOyum4OUAuqsuQmPSbHxAv7oSo47s94eqorZtbbXwXZAKkhgaApbbEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/500/1*5xYx2KgLQaTN8l3yFidiiA.png" alt="Bigquery" width="40" height="40"/> </a>
 
+<br>
 
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
